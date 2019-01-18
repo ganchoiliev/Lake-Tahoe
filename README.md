@@ -1,1 +1,1 @@
-# techdegree-project-2
+# Lake-Tahoe
